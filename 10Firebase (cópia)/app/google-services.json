@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455926208104",
+    "firebase_url": "https://week10-firebase.firebaseio.com",
+    "project_id": "week10-firebase",
+    "storage_bucket": "week10-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455926208104:android:9c5c35e6f602ddb182cddd",
+        "android_client_info": {
+          "package_name": "principal.a10firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455926208104-rhfktsjc7b74sjc5ftevsjj7ks9bom99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4KHaI-DNX3A2BMF48evbDpGAPgvjaqj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455926208104-rhfktsjc7b74sjc5ftevsjj7ks9bom99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

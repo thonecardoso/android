@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragmento01"
+    android:background="@android:color/holo_blue_dark"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/TtextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fragmento01"
+        android:textSize="32sp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Botão 01"
+        android:id="@+id/btnFrag01"
+        />
+
+</LinearLayout>

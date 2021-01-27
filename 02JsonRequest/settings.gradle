@@ -1,0 +1,2 @@
+rootProject.name='02JsonRequest'
+include ':app'

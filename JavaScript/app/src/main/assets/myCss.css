@@ -1,0 +1,15 @@
+body{
+background-color: #FA5858;
+color:#fff;
+}
+input{
+background-color: #F7D358;
+width: 300px;
+padding:10px;
+color: #000;
+}
+div#content{
+padding:20px;
+background-color: #F7D358;
+color: #000;
+}
